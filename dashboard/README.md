@@ -1,0 +1,3 @@
+# Dashboard
+
+Dashboard module placeholder.
